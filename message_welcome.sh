@@ -23,10 +23,8 @@
 # *      along with this program; if not, write to the Free Software
 # *      Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 # *      MA 02110-1301, USA.
-# *      
-# *      
 # */
-# first text an Icon 
+# first text and Icon 
 notify-send "Hello Welcome!" "$STATE" --icon=/usr/share/icons/cab_view.png  --expire-time=3000
 # second text # Version (kann nach belieben geändert werden)
 notify-send "to Ubuntu 12.04!" "$STATE" --icon=/usr/share/icons/unity-icon-theme/places/24/distributor-logo.png  --expire-time=5000 
